@@ -1,10 +1,10 @@
 {
 	"setups": [{
-			"icon_pack": "Minima Icon Pack",
-			"wall_used": "Simple Level",
-			"widget": "KWGT PRO",
+			"icon_pack": "#1\n Icon Pack: Minima Icon Pack",
+			"wall_used": "Wallpaper: Simple Level",
+			"widget": "Widget: KWGT PRO",
 			"extra": "Template: Heal",
-			"design_by": "@kasemsm (twitter)",
+			"design_by": "By: @kasemsm (twitter)",
 			"image_url": "https://pbs.twimg.com/media/ETdeSdTU8AEimwD?format=jpg&name=large"
 
 		},
