@@ -1,6 +1,7 @@
 {
 	"setups": [{
 			"icon_pack": "Gladient Icons",
+			"launcher": "Lawnchair Launcher",
 			"wall_used": "Wallpaper Busy",
 			"widget": "N/A",
 			"extra": "https://firebasestorage.googleapis.com/v0/b/royalestorage-a1124.appspot.com/o/Neo.klwp?alt=media&token=bbd0f64b-65f2-4aa6-b15e-6aca0c418c9e",
@@ -10,6 +11,7 @@
 		},
 		{
 			"icon_pack": "Icon Pack: Crayons",
+			"launcher": "Nova Launcher",
 			"wall_used": "Crayons (available in icon pack app)",
 			"widget": "N/A",
 			"extra": "https://firebasestorage.googleapis.com/v0/b/royalestorage-a1124.appspot.com/o/Neo.klwp?alt=media&token=bbd0f64b-65f2-4aa6-b15e-6aca0c418c9e",
