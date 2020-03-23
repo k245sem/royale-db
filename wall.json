@@ -35,11 +35,21 @@
 	}
 	,
 	{
-		"name": "BlackFlora",
+		"name": "DarkFlora-1",
 		"author": "@ongliong11",
 		"url": "https://i.ibb.co/L5Gk4Zn/IMG-5712.png",
 		"thumbnail": "https://i.ibb.co/L5Gk4Zn/IMG-5712.png",
-		"collections": "Under The Sea",
+		"collections": "Dark Flora",
+		"downloadable": true,
+		"copyright": "Share with credits"
+	}
+	,
+	{
+		"name": "DarkFlora-2",
+		"author": "@ongliong11",
+		"url": "https://i.ibb.co/wKPFMbj/IMG-5717.png",
+		"thumbnail": "https://i.ibb.co/wKPFMbj/IMG-5717.png",
+		"collections": "Dark Flora",
 		"downloadable": true,
 		"copyright": "Share with credits"
 	}
