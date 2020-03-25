@@ -12,12 +12,16 @@
 		},
 		{
 			"icon_pack": "Icon Pack: Crayons",
+			"icon_click": "https://play.google.com/store/apps/details?id=com.jndapp.cartoon.crayon.iconpack&hl=en",
 			"launcher": "Nova Launcher",
+			"launcher_click": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher&hl=en",
 			"wall_used": "Crayons (available in icon pack app)",
-			"widget": "N/A",
 			"wall_message": "Search for this wallpaper on the Icon Pack app.",
+			"widget": "N/A",
+			"widget_click": "",
 			"extra": "https://firebasestorage.googleapis.com/v0/b/royalestorage-a1124.appspot.com/o/Neo.klwp?alt=media&token=bbd0f64b-65f2-4aa6-b15e-6aca0c418c9e",
-			"design_by": "SivaSivadeek",
+			"design_by": "Kasem S.M",
+			"design_click": "www.twitter.com/SivaSivadeek",
 			"image_url": "https://i.ibb.co/M9j0wJm/true2.jpg"
 		}
 
