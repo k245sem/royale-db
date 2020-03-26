@@ -2,10 +2,10 @@
 	"setups": [{
 			"icon_pack": "Icon Pack: Crayons",
 			"icon_click": "https://play.google.com/store/apps/details?id=com.jndapp.cartoon.crayon.iconpack&hl=en",
-			"launcher": "Nova Launcher",
+			"launcher": "Launcher: Nova",
 			"launcher_click": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher&hl=en",
-			"wall_used": "Crayons (available in icon pack app)",
-			"wall_message": "Search for this wallpaper on the Icon Pack app.",
+			"wall_used": "Wallpaper: Click Here",
+			"wall_message": "Search for this wallpaper on Crayons Icon Pack app.",
 			"widget": "N/A",
 			"widget_click": "",
 			"extra": "https://firebasestorage.googleapis.com/v0/b/royalestorage-a1124.appspot.com/o/Neo.klwp?alt=media&token=bbd0f64b-65f2-4aa6-b15e-6aca0c418c9e",
