@@ -16,19 +16,19 @@
 
 		},
 		{
-			"icon_pack": "Icon Pack: Crayons",
-			"icon_click": "https://play.google.com/store/apps/details?id=com.jndapp.cartoon.crayon.iconpack&hl=en",
-			"launcher": "Nova Launcher",
+			"icon_pack": "Nova Dark Icons",
+			"icon_click": "https://play.google.com/store/apps/details?id=cs14.pixelperfect.iconpack.novadark&hl=en",
+			"launcher": "Launcher: Nova",
 			"launcher_click": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher&hl=en",
-			"wall_used": "Wallpaper: Crayons",
-			"wall_message": "Search for this wallpaper on the Icon Pack app.",
-			"widget": "N/A",
-			"widget_click": "",
-			"extra": "https://firebasestorage.googleapis.com/v0/b/royalestorage-a1124.appspot.com/o/Neo.klwp?alt=media&token=bbd0f64b-65f2-4aa6-b15e-6aca0c418c9e",
-			"extra_click": "",
-			"design_by": "Kasem S.M",
-			"design_click": "https://www.twitter.com/reza110786",
-			"image_url": "https://i.ibb.co/M9j0wJm/true2.jpg"
+			"wall_used": "Click Here",
+			"wall_message": "Search for 'camouflage' in truepapers",
+			"widget": "No Widgets used.",
+			"widget_click": "https://docs.google.com/document/d/1Po5ZsPF5gvpjTCdGM6bwHjwc-oBxJmHTv4BD6veObqM/edit?usp=sharing",
+			"extra": "KLWP by @prativastava on twitter",
+		        "extra_click": "https://firebasestorage.googleapis.com/v0/b/royalestorage-a1124.appspot.com/o/set1kwgt.kwgt?alt=media&token=13401da6-4a34-4ca9-a320-14ec8f0b18bb",
+			"design_by": "Dhilip on twitter",
+			"design_click": "https://twitter.com/dhilipan312",
+			"image_url": "https://i.ibb.co/HGPv0CS/set1.png"
 		}
 
 	]
