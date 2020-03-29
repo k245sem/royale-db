@@ -1,5 +1,6 @@
 {
 	"setups": [{
+			"position": "#1 Half-Visioned Setup",
 			"icon_pack": "Nova Dark Icons",
 			"icon_click": "https://play.google.com/store/apps/details?id=cs14.pixelperfect.iconpack.novadark&hl=en",
 			"launcher": "Launcher: Nova",
@@ -16,6 +17,7 @@
 
 		},
 		{
+			"position": "#2 Vibrant Setup",
 			"icon_pack": "Caelus Black Icons",
 			"icon_click": "https://play.google.com/store/apps/details?id=studio14.application.caelusblack&hl=en_IN",
 			"launcher": "Launcher: Nova",
@@ -32,6 +34,7 @@
 		}
 		   ,
 		{
+			"position": "#3 DarkShadow Setup",
 			"icon_pack": "Caelus Black Icons",
 			"icon_click": "https://play.google.com/store/apps/details?id=studio14.application.caelusblack&hl=en_IN",
 			"launcher": "Launcher: Nova",
