@@ -1,8 +1,8 @@
 {
 	"setups": [{
 			"position": "#1 Half-Visioned Setup",
-			"icon_pack": "",
-			"icon_click": "",
+			"icon_pack": "Caelus Icon Pack",
+			"icon_click": "studio14.application.caelusblack",
 			"launcher": "Launcher: Nova",
 			"launcher_click": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher&hl=en",
 			"wall_used": "",
