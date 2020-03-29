@@ -19,9 +19,9 @@
 		{
 			"position": "#2 Vibrant Setup",
 			"icon_pack": "Caelus Black Icons",
-			"icon_click": "https://play.google.com/store/apps/details?id=studio14.application.caelusblack&hl=en_IN",
+			"icon_click": "studio14.application.caelusblack",
 			"launcher": "Launcher: Nova",
-			"launcher_click": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher&hl=en",
+			"launcher_click": "com.teslacoilsw.launcher",
 			"wall_used": "Click Here",
 			"wall_message": "Search for 'Wall-22' in truepapers",
 			"widget": "",
@@ -36,7 +36,7 @@
 		{
 			"position": "#3 DarkShadow Setup",
 			"icon_pack": "Caelus Black Icons",
-			"icon_click": "https://play.google.com/store/apps/details?id=studio14.application.caelusblack&hl=en_IN",
+			"icon_click": "studio14.application.caelusblack",
 			"launcher": "",
 			"launcher_click": "",
 			"wall_used": "Click Here",
@@ -44,7 +44,7 @@
 			"widget": "No Widgets used.",
 			"widget_click": "https://docs.google.com/document/d/1Po5ZsPF5gvpjTCdGM6bwHjwc-oBxJmHTv4BD6veObqM/edit?usp=sharing",
 			"extra": "Avocado KWGT",
-		        "extra_click": "https://play.google.com/store/apps/details?id=pl.mhcharlee.avocadokwgt&hl=en_IN",
+		        "extra_click": "pl.mhcharlee.avocadokwgt",
 			"design_by": "",
 			"design_click": "",
 			"image_url": "https://i.ibb.co/4gkrzr8/set2.png"
