@@ -49,6 +49,23 @@
 			"design_click": "https://twitter.com/ratinvirgo",
 			"image_url": "https://i.ibb.co/5kTGRF8/set3-min.png"
 		}
+		     ,
+		{
+			"position": "#4 SunShine Setup",
+			"icon_pack": "KAMIJARA Icon",
+			"icon_click": "com.illusioniz.team.kamijara.icons",
+			"launcher": "Lawnchair 2",
+			"launcher_click": "ch.deletescape.lawnchair.plah",
+			"wall_used": "Click Here",
+			"wall_message": "Search for 'Wall-51' in truepapers",
+			"widget": "",
+			"widget_click": "",
+			"extra": "Mini-ism for KWGT",
+		        "extra_click": "minimalistforkwgt.kustom.pack",
+			"design_by": "Milind Goel on Twitter",
+			"design_click": "https://twitter.com/milindgoel99",
+			"image_url": "https://i.ibb.co/y4tWJLW/EBx2k-FNU4-AA7-WYl.jpg"
+		}
 
 	]
 }
