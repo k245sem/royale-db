@@ -13,7 +13,8 @@
 		        "extra_click": "",
 			"design_by": "Dhilip on twitter",
 			"design_click": "https://twitter.com/dhilipan312",
-			"image_url": "https://i.ibb.co/7WV5WZL/set1-min.png"
+			"image_url": "https://i.ibb.co/7WV5WZL/set1-min.png",
+			"notes": "Get KLWP files from Dhilip on twitter"
 
 		},
 		{
@@ -31,6 +32,7 @@
 			"design_by": "@colorfulwalls on telegram",
 			"design_click": "https://t.me/colorfulwalls",
 			"image_url": "https://i.ibb.co/M9KdLKp/set2-min.png"
+			"notes": "Get KLWP files from Dhilip on twitter"
 		}
 		   ,
 		{
@@ -90,12 +92,13 @@
 			"icon_click": "com.tobiasfried.phosphor.mercury",
 			"launcher": "",
 			"launcher_click": "",
-			"wall_used": "Click Here",
+			"wall_used": "",
 			"wall_message": "Wallpaper from Amoledpapers by @mhcharlee (Twitter)",
 			"widget": "Clock Widget (YKP 3)",
 			"widget_click": "com.yaatzek.klwp.ykpthree",
 			"extra": "",
 		        "extra_click": "",
+			"wallD": "pl.mhcharlee.amoledpapers",
 			"design_by": "Nishant on Twitter",
 			"design_click": "https://twitter.com/code_krta_hu",
 			"image_url": "https://i.ibb.co/nDx0yq3/set6-min.png"
