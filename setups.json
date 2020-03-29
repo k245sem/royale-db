@@ -34,7 +34,7 @@
 			"design_by": "@colorfulwalls on telegram",
 			"design_click": "https://t.me/colorfulwalls",
 			"image_url": "https://i.ibb.co/M9KdLKp/set2-min.png",
-			"notes": "Get KLWP files from Dhilip on twitter"
+			"notes": ""
 		}
 		   ,
 		{
@@ -101,7 +101,7 @@
 			"launcher": "",
 			"launcher_click": "",
 			"wall_used": "",
-			"wall_message": "Wallpaper from Amoledpapers by @mhcharlee (Twitter)",
+			"wall_message": "",
 			"widget": "Clock Widget (YKP 3)",
 			"widget_click": "com.yaatzek.klwp.ykpthree",
 			"extra": "",
@@ -111,6 +111,25 @@
 			"design_click": "https://twitter.com/code_krta_hu",
 			"image_url": "https://i.ibb.co/nDx0yq3/set6-min.png",
 			"notes": ""
+		}
+		    ,
+		{
+			"position": "#7 Strips Setup",
+			"icon_pack": "Viola Icon",
+			"icon_click": "com.bousrih.viola",
+			"launcher": "Nova Launcher",
+			"launcher_click": "com.teslacoilsw.launcher",
+			"wall_used": "Click Here",
+			"wall_message": "Search for 'Wall-53' in truepapers",
+			"widget": "",
+			"widget_click": "",
+			"extra": "",
+		        "extra_click": "",
+			"wallD": "",
+			"design_by": "Jason on Twitter",
+			"design_click": "https://twitter.com/Mverick64",
+			"image_url": "https://i.ibb.co/0VrMH7s/set7-min.png",
+			"notes": "Get KLWP files from Jason on twitter"
 		}
 
 	]
