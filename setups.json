@@ -30,6 +30,22 @@
 			"design_click": "https://t.me/colorfulwalls",
 			"image_url": "https://i.ibb.co/4gkrzr8/set2.png"
 		}
+		   ,
+		{
+			"icon_pack": "Caelus Black Icons",
+			"icon_click": "https://play.google.com/store/apps/details?id=studio14.application.caelusblack&hl=en_IN",
+			"launcher": "Launcher: Nova",
+			"launcher_click": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher&hl=en",
+			"wall_used": "Click Here",
+			"wall_message": "Search for 'Wall-22' in truepapers",
+			"widget": "No Widgets used.",
+			"widget_click": "https://docs.google.com/document/d/1Po5ZsPF5gvpjTCdGM6bwHjwc-oBxJmHTv4BD6veObqM/edit?usp=sharing",
+			"extra": "Avocado KWGT",
+		        "extra_click": "https://play.google.com/store/apps/details?id=pl.mhcharlee.avocadokwgt&hl=en_IN",
+			"design_by": "@colorfulwalls on telegram",
+			"design_click": "https://t.me/colorfulwalls",
+			"image_url": "https://i.ibb.co/4gkrzr8/set2.png"
+		}
 
 	]
 }
