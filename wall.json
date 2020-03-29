@@ -432,9 +432,19 @@
    },
    {
       "name":"Wall-49",
-      "author":"@ongliong11",
+      "author":"Unknown",
       "url":"https://i.ibb.co/VqCQtNf/anywall.jpg",
-      "thumbnail":"https://i.ibb.co/VqCQtNf/anywall.jpgg",
+      "thumbnail":"https://i.ibb.co/VqCQtNf/anywall.jpg",
+      "downloadable":true,
+      "collections":"Circus",
+      "copyright":"Share with credits"
+   }
+   ,
+   {
+      "name":"Wall-50",
+      "author":"@929xWalls",
+      "url":"https://i.ibb.co/gRL5TfJ/visioned.jpg",
+      "thumbnail":"https://i.ibb.co/gRL5TfJ/visioned.jpg",
       "downloadable":true,
       "collections":"Circus",
       "copyright":"Share with credits"
