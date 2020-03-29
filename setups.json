@@ -66,6 +66,23 @@
 			"design_click": "https://twitter.com/milindgoel99",
 			"image_url": "https://i.ibb.co/PCSttHm/set4-min.png"
 		}
+		   ,
+		{
+			"position": "#5 BludLine Setup",
+			"icon_pack": "RedLine Icon",
+			"icon_click": "com.jndapp.redline.linex.iconpack",
+			"launcher": "Nova Launcher",
+			"launcher_click": "com.teslacoilsw.launcher",
+			"wall_used": "Click Here",
+			"wall_message": "Search for 'Wall-51' in truepapers",
+			"widget": "Watermelon KWGT",
+			"widget_click": "watermelonkwgt.kustom.pack",
+			"extra": "Fenix KWGT",
+		        "extra_click": "fenixkwgt.kustom.pack",
+			"design_by": "Sadaqat Bashir on Twitter",
+			"design_click": "https://twitter.com/Sadaqat_Bashir7",
+			"image_url": "https://i.ibb.co/0VBw81X/set5-min.png"
+		}
 
 	]
 }
