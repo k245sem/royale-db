@@ -83,6 +83,23 @@
 			"design_click": "https://twitter.com/Sadaqat_Bashir7",
 			"image_url": "https://i.ibb.co/0VBw81X/set5-min.png"
 		}
+		   ,
+		{
+			"position": "#6 MercuryGlow Setup",
+			"icon_pack": "Phosphor Icon",
+			"icon_click": "com.tobiasfried.phosphor.mercury",
+			"launcher": "",
+			"launcher_click": "",
+			"wall_used": "Click Here",
+			"wall_message": "Wallpaper from Amoledpapers by @mhcharlee (Twitter)",
+			"widget": "Clock Widget (YKP 3)",
+			"widget_click": "com.yaatzek.klwp.ykpthree",
+			"extra": "",
+		        "extra_click": "",
+			"design_by": "Nishant on Twitter",
+			"design_click": "https://twitter.com/code_krta_hu",
+			"image_url": "https://i.ibb.co/nDx0yq3/set6-min.png"
+		}
 
 	]
 }
