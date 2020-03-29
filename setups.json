@@ -1,8 +1,8 @@
 {
 	"setups": [{
 			"position": "#1 Half-Visioned Setup",
-			"icon_pack": "Caelus Icon Pack",
-			"icon_click": "studio14.application.caelusblack",
+			"icon_pack": "Nova Dark Icon",
+			"icon_click": "cs14.pixelperfect.iconpack.novadark",
 			"launcher": "Launcher: Nova",
 			"launcher_click": "com.teslacoilsw.launcher",
 			"wall_used": "",
@@ -13,11 +13,11 @@
 		        "extra_click": "",
 			"design_by": "Dhilip on twitter",
 			"design_click": "https://twitter.com/dhilipan312",
-			"image_url": "https://i.ibb.co/HGPv0CS/set1.png"
+			"image_url": "https://i.ibb.co/7WV5WZL/set1-min.png"
 
 		},
 		{
-			"position": "#2 Vibrant Setup",
+			"position": "#2 Hope Setup",
 			"icon_pack": "Caelus Black Icons",
 			"icon_click": "studio14.application.caelusblack",
 			"launcher": "Launcher: Nova",
@@ -30,24 +30,24 @@
 		        "extra_click": "pl.mhcharlee.avocadokwgt",
 			"design_by": "@colorfulwalls on telegram",
 			"design_click": "https://t.me/colorfulwalls",
-			"image_url": "https://i.ibb.co/4gkrzr8/set2.png"
+			"image_url": "https://i.ibb.co/M9KdLKp/set2-min.png"
 		}
 		   ,
 		{
 			"position": "#3 DarkShadow Setup",
-			"icon_pack": "Caelus Black Icons",
-			"icon_click": "studio14.application.caelusblack",
+			"icon_pack": "Ruzits 3 Icon",
+			"icon_click": "com.dreamon.ruzits3",
 			"launcher": "",
 			"launcher_click": "",
 			"wall_used": "Click Here",
-			"wall_message": "Search for 'Wall-22' in truepapers",
+			"wall_message": "Search for 'Wall-49' in truepapers",
 			"widget": "",
 			"widget_click": "",
-			"extra": "Avocado KWGT",
-		        "extra_click": "pl.mhcharlee.avocadokwgt",
-			"design_by": "",
-			"design_click": "",
-			"image_url": "https://i.ibb.co/4gkrzr8/set2.png"
+			"extra": "Shadow KWGT",
+		        "extra_click": "shadowkwgt.kustom.pack",
+			"design_by": "Ratindra on Twitter",
+			"design_click": "https://twitter.com/ratinvirgo",
+			"image_url": "https://i.ibb.co/5kTGRF8/set3-min.png"
 		}
 
 	]
