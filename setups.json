@@ -130,27 +130,6 @@
 			"design_click": "https://twitter.com/Mverick64",
 			"image_url": "https://i.ibb.co/q9Hhs4P/set7-min.png",
 			"notes": "Get KLWP files from Jason on twitter"
-		}
-
-		     ,
-		{
-			"position": "#8 Maze Setup",
-			"icon_pack": "Arete Icon",
-			"icon_click": "com.themesonfire.iconpack.arete_icons.paid",
-			"launcher": "Nova Launcher",
-			"launcher_click": "com.teslacoilsw.launcher",
-			"wall_used": "Click Here",
-			"wall_message": "Search for 'Wall-54' in truepapers",
-			"widget": "",
-			"widget_click": "",
-			"extra": "Hipnotize For Kwgt",
-		        "extra_click": "hipnotizeforkwgt.kustom.pack",
-			"wallD": "",
-			"design_by": "Oms CA on Twitter",
-			"design_click": "https://twitter.com/omaredisantos",
-			"image_url": "https://i.ibb.co/RCcH30L/set8-min.png",
-			"notes": ""
-		}
-		   
+		}   
 	]
 }
