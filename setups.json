@@ -1,8 +1,8 @@
 {
 	"setups": [{
 			"position": "#1 Half-Visioned Setup",
-			"icon_pack": "Nova Dark Icons",
-			"icon_click": "https://play.google.com/store/apps/details?id=cs14.pixelperfect.iconpack.novadark&hl=en",
+			"icon_pack": "",
+			"icon_click": "",
 			"launcher": "Launcher: Nova",
 			"launcher_click": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher&hl=en",
 			"wall_used": "Click Here",
