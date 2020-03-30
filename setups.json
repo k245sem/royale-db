@@ -169,5 +169,24 @@
 			"image_url": "https://i.ibb.co/vYqYw0k/set10-min.png",
 			"notes": ""
 		}   
+		     ,
+		{
+			"position": "#10 Minimalism Cries Setup",
+			"icon_pack": "",
+			"icon_click": "",
+			"launcher": "",
+			"launcher_click": "",
+			"wall_used": "Click Here",
+			"wall_message": "Search for 'Wall-112' in truepapers",
+			"widget": "Lucent KWGT",
+			"widget_click": "lucentkwgt.kustom.pack",
+			"extra": "",
+		        "extra_click": "",
+			"wallD": "",
+			"design_by": "Yash on Twitter",
+			"design_click": "https://twitter.com/starkdesigns18",
+			"image_url": "https://i.ibb.co/Pjh3V5w/set11-min.png",
+			"notes": "For icon-pack please contact Yash on Twitter"
+		}   
 	]
 }
