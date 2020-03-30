@@ -131,5 +131,24 @@
 			"image_url": "https://i.ibb.co/q9Hhs4P/set7-min.png",
 			"notes": "Get KLWP files from Jason on twitter"
 		}   
+		      ,
+		{
+			"position": "#8 Showers Setup",
+			"icon_pack": "Viola Dark Icon",
+			"icon_click": "com.bousrih.violadark",
+			"launcher": "Nova Launcher",
+			"launcher_click": "com.teslacoilsw.launcher",
+			"wall_used": "Click Here",
+			"wall_message": "Search for 'Wall-54' in truepapers",
+			"widget": "Mini-ism for kwgt",
+			"widget_click": "minimalistforkwgt.kustom.pack",
+			"extra": "",
+		        "extra_click": "",
+			"wallD": "",
+			"design_by": "Marcel on Twitter",
+			"design_click": "https://twitter.com/Marcel73390851",
+			"image_url": "https://i.ibb.co/C7r6Ngj/set9-min.png",
+			"notes": "Get KLWP files from Jason on twitter"
+		}   
 	]
 }
