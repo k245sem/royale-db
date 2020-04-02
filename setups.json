@@ -193,8 +193,8 @@
 			"position": "#11 Snail Setup",
 			"icon_pack": "Reduze Icon",
 			"icon_click": "com.Bix.reduze",
-			"launcher": "",
-			"launcher_click": "",
+			"launcher": "OnePlus Launcher",
+			"launcher_click": "net.oneplus.launcher",
 			"wall_used": "",
 			"wall_message": "",
 			"widget": "",
@@ -205,7 +205,7 @@
 			"design_by": "",
 			"design_click": "",
 			"image_url": "https://i.ibb.co/jTn2NrD/set12-min.png",
-			"notes": "Designer doesn't wish to get mentioned\nWall Number 228 from WhalePapers Free Version\nOnePlus Launcher & Widget restriced to only OnePlus devices."
+			"notes": "Designer doesn't wish to get mentioned\n\nWall No-228 from WhalePapers Free\n\nOP Launcher & Widget restriced to only OP devices."
 		}   
 	]
 }
