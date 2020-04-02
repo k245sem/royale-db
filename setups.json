@@ -188,5 +188,24 @@
 			"image_url": "https://i.ibb.co/Pjh3V5w/set11-min.png",
 			"notes": "For icon-pack please contact Yash on Twitter"
 		}   
+		    ,
+		{
+			"position": "#11 Snail Setup",
+			"icon_pack": "Reduze Icon",
+			"icon_click": "com.Bix.reduze",
+			"launcher": "",
+			"launcher_click": "",
+			"wall_used": "",
+			"wall_message": "",
+			"widget": "",
+			"widget_click": "",
+			"extra": "",
+		        "extra_click": "",
+			"wallD": "com.iambavith.whalepaperspro",
+			"design_by": "",
+			"design_click": "",
+			"image_url": "https://i.ibb.co/jTn2NrD/set12-min.png",
+			"notes": "Wall No.268 from WhalePapers Pro"
+		}   
 	]
 }
